@@ -73,7 +73,7 @@
 <div>
 <br>
 <br>
- <h2> :pushpin: Link: <a href="https://williamfilvoch.github.io/WEB-Page-3/" > Web Page Desafio 2 </a> </h2>
+ <h2> :pushpin: Link: <a href="https://williamfilvoch.github.io/WEB-Page-3/" > Web Page Desafio 3 </a> </h2>
 <br>
 <br>
  <img src="https://github.com/williamfilvoch/WEB-Page-3/blob/master/assets/girl-cell.png" />
